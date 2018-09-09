@@ -1,7 +1,7 @@
 # Python Projects
 Learning python by working on projects
 
-# Twitter-Mining
+# 1st: Twitter-Mining
 Working on mining on Twitter API
 
 # Day 1:
